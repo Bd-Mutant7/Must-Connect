@@ -84,9 +84,9 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "REPLACE_WITH_YOUR_EAS_PROJECT_ID"
+        "projectId": "32ceb9c4-d660-4397-a371-b9b18b8cd25a"
       }
     },
-    "owner": "REPLACE_WITH_YOUR_EXPO_USERNAME"
+    "owner": "bd_mutant7"
   }
 }
